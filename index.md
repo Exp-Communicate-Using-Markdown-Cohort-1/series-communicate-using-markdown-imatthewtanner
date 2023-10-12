@@ -51,3 +51,7 @@ struct MeetingView_Previews: PreviewProvider {
     }
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
